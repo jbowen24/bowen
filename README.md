@@ -1,2 +1,7 @@
-# uc_ux_15
-lightning talk for the ui/ux session at the 2015 Esri UC. 
+Esri 2015 User Conference Lightning Talk
+=======
+
+<<<<<<< HEAD
+Simple Yet Compelling
+======= 
+>>>>>>> gh-pages/gh-pages
